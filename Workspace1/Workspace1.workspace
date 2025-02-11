@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Workspace1" Database="" Version="10000">
-  <Project Name="helloWorld" Path="Project1/Project1.project" Active="Yes"/>
-  <Project Name="favouriteNumber" Path="favouriteNumber/favouriteNumber.project" Active="No"/>
+  <Project Name="helloWorld" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="favouriteNumber" Path="favouriteNumber/favouriteNumber.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
