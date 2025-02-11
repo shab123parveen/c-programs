@@ -3,8 +3,8 @@
 int main(int argc, char **argv)
 {
     int myNumber;
-	printf("Enter your favourite number\n");
+	printf("Enter Your Favourite Number\n");
     scanf("%d",&myNumber);
-    printf("Your entered favourite number is %d\n",myNumber);
+    printf("Your Entered Favourite Number Is %d\n",myNumber);
 	return 0;
 }
