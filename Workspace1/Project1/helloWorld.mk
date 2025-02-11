@@ -3,12 +3,12 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=favouriteNumber
+ProjectName            :=helloWorld
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :=F:/C_Programs/Workspace1
-ProjectPath            :=F:/C_Programs/Workspace1/favouriteNumber
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/favouriteNumber
+ProjectPath            :=F:/C_Programs/Workspace1/Project1
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Project1
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
@@ -55,7 +55,7 @@ AR       := C:/cygwin64/bin/ar.exe rcu
 CXX      := C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe
 CC       := C:/cygwin64/bin/gcc.exe
 CXXFLAGS :=  -gdwarf-2 -O0 -Wall $(Preprocessors)
-CFLAGS   :=  -gdwarf-2 -O0 -Wall $(Preprocessors)
+CFLAGS   :=  -O0 -gdwarf-2 -std=c99 -Wall $(Preprocessors)
 ASFLAGS  := 
 AS       := C:/cygwin64/bin/as.exe
 
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.c$(ObjectSuffix): main.c $(IntermediateDirectory)/main.c$(DependSuffix)
-	$(CC) $(SourceSwitch) "F:/C_Programs/Workspace1/favouriteNumber/main.c" $(CFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.c$(ObjectSuffix) $(IncludePath)
+	$(CC) $(SourceSwitch) "F:/C_Programs/Workspace1/Project1/main.c" $(CFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.c$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.c$(DependSuffix): main.c
 	@$(CC) $(CFLAGS) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/main.c$(ObjectSuffix) -MF$(IntermediateDirectory)/main.c$(DependSuffix) -MM main.c
 
