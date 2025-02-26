@@ -1,9 +1,53 @@
 [{
+		"file":	"F:\\C_Programs\\Workspace1\\Votingage\\main.c",
+		"directory":	"F:\\C_Programs\\Workspace1\\Votingage",
+		"command":	"C:/cygwin64/bin/gcc.exe -c F:\\C_Programs\\Workspace1\\Votingage\\main.c -o F:\\C_Programs\\Workspace1\\Votingage\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"F:\\C_Programs\\Workspace1\\Leapyearchecker\\main.c",
+		"directory":	"F:\\C_Programs\\Workspace1\\Leapyearchecker",
+		"command":	"C:/cygwin64/bin/gcc.exe -c F:\\C_Programs\\Workspace1\\Leapyearchecker\\main.c -o F:\\C_Programs\\Workspace1\\Leapyearchecker\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"F:\\C_Programs\\Workspace1\\Oddevenchecker\\main.c",
+		"directory":	"F:\\C_Programs\\Workspace1\\Oddevenchecker",
+		"command":	"C:/cygwin64/bin/gcc.exe -c F:\\C_Programs\\Workspace1\\Oddevenchecker\\main.c -o F:\\C_Programs\\Workspace1\\Oddevenchecker\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"F:\\C_Programs\\Workspace1\\CalculateAverage\\main.c",
+		"directory":	"F:\\C_Programs\\Workspace1\\CalculateAverage",
+		"command":	"C:/cygwin64/bin/gcc.exe -c F:\\C_Programs\\Workspace1\\CalculateAverage\\main.c -o F:\\C_Programs\\Workspace1\\CalculateAverage\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"F:\\C_Programs\\Workspace1\\consoleperimeter\\main.c",
+		"directory":	"F:\\C_Programs\\Workspace1\\consoleperimeter",
+		"command":	"C:/cygwin64/bin/gcc.exe -c F:\\C_Programs\\Workspace1\\consoleperimeter\\main.c -o F:\\C_Programs\\Workspace1\\consoleperimeter\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"F:\\C_Programs\\Workspace1\\celsius\\main.c",
+		"directory":	"F:\\C_Programs\\Workspace1\\celsius",
+		"command":	"C:/cygwin64/bin/gcc.exe -c F:\\C_Programs\\Workspace1\\celsius\\main.c -o F:\\C_Programs\\Workspace1\\celsius\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"F:\\C_Programs\\Workspace1\\ConsoleCalculator\\main.c",
+		"directory":	"F:\\C_Programs\\Workspace1\\ConsoleCalculator",
+		"command":	"C:/cygwin64/bin/gcc.exe -c F:\\C_Programs\\Workspace1\\ConsoleCalculator\\main.c -o F:\\C_Programs\\Workspace1\\ConsoleCalculator\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"F:\\C_Programs\\Workspace1\\Positivenumbers\\main.c",
+		"directory":	"F:\\C_Programs\\Workspace1\\Positivenumbers",
+		"command":	"C:/cygwin64/bin/gcc.exe -c F:\\C_Programs\\Workspace1\\Positivenumbers\\main.c -o F:\\C_Programs\\Workspace1\\Positivenumbers\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"F:\\C_Programs\\Workspace1\\Greatestnumber\\main.c",
+		"directory":	"F:\\C_Programs\\Workspace1\\Greatestnumber",
+		"command":	"C:/cygwin64/bin/gcc.exe -c F:\\C_Programs\\Workspace1\\Greatestnumber\\main.c -o F:\\C_Programs\\Workspace1\\Greatestnumber\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
 		"file":	"F:\\C_Programs\\Workspace1\\favouriteNumber\\main.c",
 		"directory":	"F:\\C_Programs\\Workspace1\\favouriteNumber",
 		"command":	"C:/cygwin64/bin/gcc.exe -c F:\\C_Programs\\Workspace1\\favouriteNumber\\main.c -o F:\\C_Programs\\Workspace1\\favouriteNumber\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
 	}, {
-		"file":	"F:\\C_Programs\\Workspace1\\Project1\\main.c",
-		"directory":	"F:\\C_Programs\\Workspace1\\Project1",
-		"command":	"C:/cygwin64/bin/gcc.exe -c F:\\C_Programs\\Workspace1\\Project1\\main.c -o F:\\C_Programs\\Workspace1\\Project1\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+		"file":	"F:\\C_Programs\\Workspace1\\simpleinterest\\main.c",
+		"directory":	"F:\\C_Programs\\Workspace1\\simpleinterest",
+		"command":	"C:/cygwin64/bin/gcc.exe -c F:\\C_Programs\\Workspace1\\simpleinterest\\main.c -o F:\\C_Programs\\Workspace1\\simpleinterest\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"F:\\C_Programs\\Workspace1\\NameInputProgram\\main.c",
+		"directory":	"F:\\C_Programs\\Workspace1\\NameInputProgram",
+		"command":	"C:/cygwin64/bin/gcc.exe -c F:\\C_Programs\\Workspace1\\NameInputProgram\\main.c -o F:\\C_Programs\\Workspace1\\NameInputProgram\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"F:\\C_Programs\\Workspace1\\Addition\\main.c",
+		"directory":	"F:\\C_Programs\\Workspace1\\Addition",
+		"command":	"C:/cygwin64/bin/gcc.exe -c F:\\C_Programs\\Workspace1\\Addition\\main.c -o F:\\C_Programs\\Workspace1\\Addition\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
 	}]
