@@ -4,6 +4,7 @@ int main()
 {
     int age;
     
+    prinf("Welcome to Vote Eligibility Checker");
     //Asking age for voting
 	printf("Enter your age\n");
     scanf("%d", &age);
@@ -19,5 +20,6 @@ int main()
         printf("You are eligible for vote.\n");
     }
     
+    printf("Thanks for choosing our program");
 	return 0;
 }
