@@ -1,6 +1,5 @@
 # Ignore CodeLite workspace and project files
 *.tags
-*.project
 *.clangd
 *.clang-format
 *.session
