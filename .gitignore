@@ -1,6 +1,5 @@
 # Ignore CodeLite workspace and project files
 *.tags
-*.workspace
 *.project
 *.clangd
 *.clang-format
@@ -40,8 +39,7 @@
 /.release/
 /.build/
 /.deps/
-/Makefile
-/build-Debug/
 **/compile_commands.json
 **/.cache/
 **/build-Debug/
+**/Makefile
